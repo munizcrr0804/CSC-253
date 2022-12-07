@@ -1,0 +1,13 @@
+E:\classes\CSC-253\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\bin\Debug\Celsius to Fahrenheit Table.exe.config
+E:\classes\CSC-253\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\bin\Debug\Celsius to Fahrenheit Table.exe
+E:\classes\CSC-253\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\bin\Debug\Celsius to Fahrenheit Table.pdb
+E:\classes\CSC-253\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\Debug\Celsius to Fahrenheit Table.csproj.AssemblyReference.cache
+E:\classes\CSC-253\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\Debug\Celsius_to_Fahrenheit_Table.Form1.resources
+E:\classes\CSC-253\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\Debug\Celsius_to_Fahrenheit_Table.Properties.Resources.resources
+E:\classes\CSC-253\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\Debug\Celsius to Fahrenheit Table.csproj.GenerateResource.cache
+E:\classes\CSC-253\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\Debug\Celsius to Fahrenheit Table.csproj.CoreCompileInputs.cache
+E:\classes\CSC-253\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\Debug\Celsius to Fahrenheit Table.exe
+E:\classes\CSC-253\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\Debug\Celsius to Fahrenheit Table.pdb
+E:\classes\CSC-253\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\bin\Debug\aa-ER\Celsius to Fahrenheit Table.resources.dll
+E:\classes\CSC-253\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\Debug\Celsius_to_Fahrenheit_Table.Form1.aa-ER.resources
+E:\classes\CSC-253\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\Debug\aa-ER\Celsius to Fahrenheit Table.resources.dll

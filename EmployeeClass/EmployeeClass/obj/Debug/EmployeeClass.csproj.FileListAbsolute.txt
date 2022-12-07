@@ -1,0 +1,11 @@
+E:\classes\CSC-153\EmployeeClass\EmployeeClass\bin\Debug\EmployeeClass.exe.config
+E:\classes\CSC-153\EmployeeClass\EmployeeClass\bin\Debug\EmployeeClass.exe
+E:\classes\CSC-153\EmployeeClass\EmployeeClass\bin\Debug\EmployeeClass.pdb
+E:\classes\CSC-153\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.Form1.resources
+E:\classes\CSC-153\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.Properties.Resources.resources
+E:\classes\CSC-153\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.csproj.GenerateResource.cache
+E:\classes\CSC-153\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.exe
+E:\classes\CSC-153\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.pdb
+E:\classes\CSC-153\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.csprojAssemblyReference.cache
+E:\classes\CSC-153\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.csproj.AssemblyReference.cache
+E:\classes\CSC-153\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.csproj.CoreCompileInputs.cache

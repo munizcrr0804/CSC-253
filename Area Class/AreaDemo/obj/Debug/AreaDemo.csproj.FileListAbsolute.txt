@@ -1,0 +1,6 @@
+E:\classes\CSC-253\Area Class\AreaDemo\bin\Debug\AreaDemo.dll
+E:\classes\CSC-253\Area Class\AreaDemo\bin\Debug\AreaDemo.pdb
+E:\classes\CSC-253\Area Class\AreaDemo\obj\Debug\AreaDemo.csproj.AssemblyReference.cache
+E:\classes\CSC-253\Area Class\AreaDemo\obj\Debug\AreaDemo.csproj.CoreCompileInputs.cache
+E:\classes\CSC-253\Area Class\AreaDemo\obj\Debug\AreaDemo.dll
+E:\classes\CSC-253\Area Class\AreaDemo\obj\Debug\AreaDemo.pdb

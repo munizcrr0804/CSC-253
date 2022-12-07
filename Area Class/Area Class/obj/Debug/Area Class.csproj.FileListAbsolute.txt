@@ -1,0 +1,13 @@
+E:\classes\CSC-253\Area Class\Area Class\bin\Debug\Area Class.exe.config
+E:\classes\CSC-253\Area Class\Area Class\bin\Debug\Area Class.exe
+E:\classes\CSC-253\Area Class\Area Class\bin\Debug\Area Class.pdb
+E:\classes\CSC-253\Area Class\Area Class\bin\Debug\AreaDemo.dll
+E:\classes\CSC-253\Area Class\Area Class\bin\Debug\AreaDemo.pdb
+E:\classes\CSC-253\Area Class\Area Class\obj\Debug\Area Class.csproj.AssemblyReference.cache
+E:\classes\CSC-253\Area Class\Area Class\obj\Debug\Area_Class.Form1.resources
+E:\classes\CSC-253\Area Class\Area Class\obj\Debug\Area_Class.Properties.Resources.resources
+E:\classes\CSC-253\Area Class\Area Class\obj\Debug\Area Class.csproj.GenerateResource.cache
+E:\classes\CSC-253\Area Class\Area Class\obj\Debug\Area Class.csproj.CoreCompileInputs.cache
+E:\classes\CSC-253\Area Class\Area Class\obj\Debug\Area Class.csproj.CopyComplete
+E:\classes\CSC-253\Area Class\Area Class\obj\Debug\Area Class.exe
+E:\classes\CSC-253\Area Class\Area Class\obj\Debug\Area Class.pdb

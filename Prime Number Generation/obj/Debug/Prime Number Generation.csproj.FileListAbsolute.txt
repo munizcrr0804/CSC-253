@@ -1,0 +1,7 @@
+D:\classes\CSC-253\Prime Number Generation\bin\Debug\Prime Number Generation.exe.config
+D:\classes\CSC-253\Prime Number Generation\bin\Debug\Prime Number Generation.exe
+D:\classes\CSC-253\Prime Number Generation\bin\Debug\Prime Number Generation.pdb
+D:\classes\CSC-253\Prime Number Generation\obj\Debug\Prime Number Generation.csproj.AssemblyReference.cache
+D:\classes\CSC-253\Prime Number Generation\obj\Debug\Prime Number Generation.csproj.CoreCompileInputs.cache
+D:\classes\CSC-253\Prime Number Generation\obj\Debug\Prime Number Generation.exe
+D:\classes\CSC-253\Prime Number Generation\obj\Debug\Prime Number Generation.pdb

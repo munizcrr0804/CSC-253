@@ -1,0 +1,12 @@
+E:\classes\CSC-253\Product Search\bin\Debug\Database1.mdf
+E:\classes\CSC-253\Product Search\bin\Debug\Database1_log.ldf
+E:\classes\CSC-253\Product Search\bin\Debug\Product Search.exe.config
+E:\classes\CSC-253\Product Search\bin\Debug\Product Search.exe
+E:\classes\CSC-253\Product Search\bin\Debug\Product Search.pdb
+E:\classes\CSC-253\Product Search\obj\Debug\Product Search.csproj.AssemblyReference.cache
+E:\classes\CSC-253\Product Search\obj\Debug\Product_Search.Form1.resources
+E:\classes\CSC-253\Product Search\obj\Debug\Product_Search.Properties.Resources.resources
+E:\classes\CSC-253\Product Search\obj\Debug\Product Search.csproj.GenerateResource.cache
+E:\classes\CSC-253\Product Search\obj\Debug\Product Search.csproj.CoreCompileInputs.cache
+E:\classes\CSC-253\Product Search\obj\Debug\Product Search.exe
+E:\classes\CSC-253\Product Search\obj\Debug\Product Search.pdb

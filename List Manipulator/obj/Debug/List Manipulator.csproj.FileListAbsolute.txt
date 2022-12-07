@@ -1,0 +1,10 @@
+E:\classes\CSC-253\List Manipulator\bin\Debug\List Manipulator.exe.config
+E:\classes\CSC-253\List Manipulator\bin\Debug\List Manipulator.exe
+E:\classes\CSC-253\List Manipulator\bin\Debug\List Manipulator.pdb
+E:\classes\CSC-253\List Manipulator\obj\Debug\List Manipulator.csproj.AssemblyReference.cache
+E:\classes\CSC-253\List Manipulator\obj\Debug\List_Manipulator.Form1.resources
+E:\classes\CSC-253\List Manipulator\obj\Debug\List_Manipulator.Properties.Resources.resources
+E:\classes\CSC-253\List Manipulator\obj\Debug\List Manipulator.csproj.GenerateResource.cache
+E:\classes\CSC-253\List Manipulator\obj\Debug\List Manipulator.csproj.CoreCompileInputs.cache
+E:\classes\CSC-253\List Manipulator\obj\Debug\List Manipulator.exe
+E:\classes\CSC-253\List Manipulator\obj\Debug\List Manipulator.pdb

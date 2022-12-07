@@ -1,0 +1,10 @@
+D:\classes\CSC-253\English Surnames\bin\Debug\English Surnames.exe.config
+D:\classes\CSC-253\English Surnames\bin\Debug\English Surnames.exe
+D:\classes\CSC-253\English Surnames\bin\Debug\English Surnames.pdb
+D:\classes\CSC-253\English Surnames\obj\Debug\English Surnames.csproj.AssemblyReference.cache
+D:\classes\CSC-253\English Surnames\obj\Debug\English_Surnames.Properties.Resources.resources
+D:\classes\CSC-253\English Surnames\obj\Debug\English Surnames.csproj.GenerateResource.cache
+D:\classes\CSC-253\English Surnames\obj\Debug\English Surnames.csproj.CoreCompileInputs.cache
+D:\classes\CSC-253\English Surnames\obj\Debug\English Surnames.exe
+D:\classes\CSC-253\English Surnames\obj\Debug\English Surnames.pdb
+D:\classes\CSC-253\English Surnames\obj\Debug\English_Surnames.Form1.resources

@@ -1,0 +1,5 @@
+D:\classes\CSC-253\Gas Prices\obj\Debug\Gas Prices.csproj.AssemblyReference.cache
+D:\classes\CSC-253\Gas Prices\obj\Debug\Gas_Prices.Form1.resources
+D:\classes\CSC-253\Gas Prices\obj\Debug\Gas_Prices.Properties.Resources.resources
+D:\classes\CSC-253\Gas Prices\obj\Debug\Gas Prices.csproj.GenerateResource.cache
+D:\classes\CSC-253\Gas Prices\obj\Debug\Gas Prices.csproj.CoreCompileInputs.cache

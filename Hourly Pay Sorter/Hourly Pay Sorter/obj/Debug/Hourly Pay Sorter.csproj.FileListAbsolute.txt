@@ -1,0 +1,5 @@
+D:\classes\CSC-253\Hourly Pay Sorter\Hourly Pay Sorter\obj\Debug\Hourly Pay Sorter.csproj.AssemblyReference.cache
+D:\classes\CSC-253\Hourly Pay Sorter\Hourly Pay Sorter\obj\Debug\Hourly_Pay_Sorter.hourlyPaySorter.resources
+D:\classes\CSC-253\Hourly Pay Sorter\Hourly Pay Sorter\obj\Debug\Hourly_Pay_Sorter.Properties.Resources.resources
+D:\classes\CSC-253\Hourly Pay Sorter\Hourly Pay Sorter\obj\Debug\Hourly Pay Sorter.csproj.GenerateResource.cache
+D:\classes\CSC-253\Hourly Pay Sorter\Hourly Pay Sorter\obj\Debug\Hourly Pay Sorter.csproj.CoreCompileInputs.cache
